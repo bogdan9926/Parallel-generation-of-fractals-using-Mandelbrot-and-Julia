@@ -1,0 +1,1 @@
+# Parallel-generation-of-fractals-using-Mandelbrot-and-Julia
